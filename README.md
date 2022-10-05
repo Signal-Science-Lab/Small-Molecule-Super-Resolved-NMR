@@ -1,2 +1,3 @@
-# Small-Molecule-Super-Resolved-NMR
-Data available for the article entitled "Analysis of small molecule mixtures by super-resolved 1H NMR spectroscopy"
+# Data desciption 
+Data for the article entitled "Analysis of small molecule mixtures by super-resolved 1H NMR spectroscopy"
+- Contains experimental NMR spectra taken from hmdb.ca, augmented datasets, and wavelet packet transform spectral datasets
